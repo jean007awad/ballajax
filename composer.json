@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "htl3r/ajaxball": "^2.0",
+        "htl3r/ajaxball": "@dev",
         "typo3fluid/fluid": "^2.5"
     },
 
